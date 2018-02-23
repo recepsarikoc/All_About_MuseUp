@@ -38,8 +38,8 @@
    * **1.1.2.7.** Registered users shall be able to see a list of his/her posts in their profile page.
    * **1.1.2.8.** Registered users shall be able to see a list of posts and events that he/she liked.
     * **1.1.2.9. Special Registered Users**
-        * **1.1.2.9.1.** Registered users shall be able to share events.
-        * **1.1.2.9.2.** Registered users shall be able to see a list of his/her events in their profile page.
+        * **1.1.2.9.1.** Special Registered users shall be able to share events.
+        * **1.1.2.9.2.** Special Registered users shall be able to see a list of his/her events in their profile page.
 
 * **1.1.3. Post Features**
    * **1.1.3.1.** Registered Users shall be able to add photos to posts.
@@ -67,11 +67,6 @@
    * **1.1.6.1.** Users shall be able to see their posted posts in their profile pages.
    * **1.1.6.2.** Users should be able to edit his/her posts in their profile pages.
    * **1.1.6.3.** Users should be able to delete his/her posts in their profile pages.
-
-* **1.1.7 Annotations**
-   * **1.1.7.1.** Users shall be able to add annotation to images in a post.
-   * **1.1.7.2.** Users shall be able to add annotation to a specified part of a story in a post.
-   * **1.1.7.3.** Users shall be able to add annotation to a specified part of a comment in a post.
 
 ### 1.2. System Requirements
 
