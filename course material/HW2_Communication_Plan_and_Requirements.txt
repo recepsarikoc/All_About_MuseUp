@@ -1,0 +1,20 @@
+
+HW2: Communication Plan and Requirements 
+
+
+A. Communication plan
+
+Meet with your group and prepare your communication plan. Put your plan on your github repository. Your plan should include the following information with the following in each row:
+   * Who will participate
+   * Where  (i.e. department, Doydos, skype, slack, ...)
+   * Purpose (i.e. progress update)
+   * When (i.e. Mondays at 5)
+   
+
+B Requirements
+
+Examine your project description and create a draft version of your requirements.
+
+You will likely have questions regarding the requirements. This is part of requirements elicitation. Identify the issues that need clarification. Prepare a clear list of questions to be clarified by your customer. Make an appointment to meet with your customer to discuss these questions.
+
+Document the requirements and your question related to elicitation on your project. Document them clearly as software requirements.

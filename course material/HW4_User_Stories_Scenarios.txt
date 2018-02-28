@@ -1,0 +1,18 @@
+
+User Stories and Requirements
+
+
+A. Consider your project and the agile user stories exercises done in class to complete the following:
+
+1) Personas
+2) User stories
+3) Acceptance criteria
+
+B. Create mock-ups for 3 full user scenarios (from end to end). Start with a user and depict each step until the scenario is completed.
+Your user scenarios must be based on realistic user and content.
+This means you should not create placeholders or content like user1, x, lorem ipsum. 
+Our goal is to get into the context of the applicaiton as much as possible.
+
+You may you a wireframe or drawing application to produce the scenarios.
+
+

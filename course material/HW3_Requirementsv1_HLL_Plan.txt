@@ -1,0 +1,35 @@
+
+First version of the Requirements and Planning
+
+
+A. Requirements (version 1)
+
+Based on your elicitation efforts, complete the first version of your requirements.
+Do not forget that everything you do in your project must be grounded on the requirements.
+   
+
+B Project Plan (draft)
+
+
+Now that you are getting into your project requirements, it is time to start planning.
+
+You already created a communication plan for your team.
+
+Now, create a high level project plan that outlines the major activities and milestones. 
+Like every artifact in software development the project plan is subject to change. 
+
+Throughout your project development, you will be expected to track your progress in accorance with your plan as well as keep your plan up to date. The goal of the plan is to organize the work by estimating the effort and resources needed complete the tasks and to compare the execution (real life progress). This way you are able to assess how you are progressing.
+
+Expect us to ask you these questions:
+
+	According to your plan, where should you be in your project now? 
+	Where are you? 
+	What is the difference? 
+	What are you planning to do to make up the difference?
+
+Note that this plan will be a very high level plan at this point.
+The point it to get familiar with  project planning software and the elements of a project plan, i.e. milestones, tasks, and resources.
+
+Please use: https://www.projectlibre.com/ for your projects. You may choose any strategy for milestones. We will use your choices to discuss their viability.
+
+
