@@ -1,0 +1,24 @@
+Wrap up requirements phase
+
+Lots of work has been done towards understanding the requirements. It is time to *review* them and complete the first version.
+
+
+A) Requirements Version 1
+
+
+Review check-list:
+
+1) Validated with the customer via scenarios and meetings.
+2) Consistency check.
+3) Completeness check.
+4) Unambiguous, should be understood similarly when read by other people.
+5) Conventions, uses software engineering conventions.
+
+This includes, the formal requirements, user personas, and use cases.
+
+B) Wiki up-to-date
+
+Review your project wiki pages. Make sure all information is there and easily accessible.
+All pages should be reachable from the main page. Not necessarily in one hop. In other words, the reader should not have to click on wiki or other places to reach information. 
+
+All research, requirements, meeting notes, plan, conventions, and issues should be in good order and tracked!
