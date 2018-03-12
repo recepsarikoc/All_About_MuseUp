@@ -1,0 +1,23 @@
+HW: DESIGN --- Class and Sequence Diagrams
+
+You have started working on a solution model for your project. It is time to get deeper. For this you will prepare:
+
+1) Class Diagram, that identifies the classes and their relationships.
+
+2) Sequence Diagrams, that describes use cases with objects of the classes you present. Each use case shall be labeled and clearly articulate the objects and the messaging between them to achieve your use cases and refer to the users and cases as you describe in your Use Case design.
+
+Like everything in your project, the class diagrams and sequence diagrams shall be put on your repository.
+
+All cases must be specific to your project! This means that all diagrams should reflect
+elements that are specifically related to your project (for example, your sequence diagrams
+will refer to instances of your classes as defined in your class diagram). Make sure you clearly
+label arrows as applicable (i.e. messages, data, <<extends>> , <<includes>>).
+Remember that these diagrams enable you to think through your solution as well as clearly
+communicate it. This means that you would be able to read and understand the solution being
+proposed as well as discuss it.
+
+All diagrams must be labeled and numbered. You may refer to lower level diagrams from
+higher level diagrams of the same kind.
+
+You may use a tool that supports UML Diagrams, such as lucidchart (https://www.lucidchart.com/) service for creating UML diagrams (it offers free accounts with
+your university email),  argouml (http://argouml.tigris.org/), or UMLet (http://www.umlet.com/). 
