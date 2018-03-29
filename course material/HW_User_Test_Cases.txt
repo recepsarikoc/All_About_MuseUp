@@ -1,0 +1,20 @@
+Homework -- Quality Assurance 
+
+Part 1: Acceptance test
+
+In this homework you will provide one of the main test documents for quality assurance: Test cases for your Course Project.
+
+   At this point you do not have a system to test, so what you are doing is designing how your system should perform. The ideal time to design your test cases. You should get your mind into the specific input/output relationships of your use cases.
+
+   Make sure you itemize each step with realistic input and expected output. The use of specific and relevant input data is very important. 
+
+
+Here are some useful references:
+
+  a. Advice on writing good test cases may be found at: http://www.guru99.com/test-case.html
+
+  b. "180+ Sample Test Cases for Testing Web and Desktop Applications – Comprehensive Testing Checklist" http://www.softwaretestinghelp.com/sample-test-cases-testing-web-desktop-applications/
+
+  c. Example template https://images.template.net/wp-content/uploads/2015/12/29053639/Test-Case-Template-PDF.pdf You may alter it to fit your needs, so long as you include the necessary elements of a test case. Remember the criteria that must be considered when designing your template and test cases. Also, recall that test cases and its parts must be referencable.
+ 
+
